@@ -1,10 +1,10 @@
-# 📦 Logistics Performance & Optimization Dashboard (Power BI)
+#  Logistics Performance & Optimization Dashboard (Power BI)
 
 An interactive Business Intelligence project built using Power BI to analyze and optimize logistics and shipment operations through data-driven insights.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project focuses on monitoring logistics performance, identifying operational bottlenecks, and optimizing transportation costs using dynamic dashboards and KPI-driven analytics.
 
@@ -12,7 +12,7 @@ The dashboard transforms raw shipment data into meaningful insights that support
 
 ---
 
-## 🚀 Objectives
+## Objectives
 
 - Track shipment and delivery performance  
 - Analyze transportation costs  
@@ -22,37 +22,37 @@ The dashboard transforms raw shipment data into meaningful insights that support
 
 ---
 
-## 📊 Key Features
+##  Key Features
 
-### 🔹 Shipment Performance Analysis
+### Shipment Performance Analysis
 - On-time vs delayed delivery tracking  
 - Average transit time analysis  
 - Trend-based delivery performance  
 
-### 🔹 Cost Analysis
+### Cost Analysis
 - Cost per shipment  
 - Region-wise transportation cost  
 - Carrier-wise cost comparison  
 
-### 🔹 KPI Dashboard
+### KPI Dashboard
 - Delivery Rate (%)  
 - Average Shipping Time  
 - Total Shipments  
 - Operational Variance  
 
-### 🔹 Data Modeling
+### Data Modeling
 - Star schema design  
 - Optimized table relationships  
 - Cleaned and transformed data using Power Query  
 
-### 🔹 Advanced Analytics
+### Advanced Analytics
 - Custom DAX measures  
 - Time intelligence calculations  
 - Performance benchmarking  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Power BI Desktop**
 - **Power Query (ETL)**
@@ -60,7 +60,7 @@ The dashboard transforms raw shipment data into meaningful insights that support
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 - Identifies high-cost routes and inefficiencies  
 - Improves delivery performance visibility  
@@ -69,13 +69,13 @@ The dashboard transforms raw shipment data into meaningful insights that support
 
 ---
 
-## 📂 Project File
+## Project File
 
 - `Logistic project.pbix`
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Download the `.pbix` file  
 2. Open it using Power BI Desktop  
@@ -84,7 +84,7 @@ The dashboard transforms raw shipment data into meaningful insights that support
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Business Intelligence Development  
 - Data Modeling  
